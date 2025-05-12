@@ -1,0 +1,3 @@
+The Hand Sign Detection System is a machine learning-based application designed to recognize and classify static hand gestures from image data. Implemented in Python, this project leverages a Random Forest Classifier to accurately predict hand signs, making it useful for gesture-controlled interfaces or sign language interpretation.
+
+The system involves collecting and preprocessing image data of hand signs, extracting meaningful features, training a robust ensemble model, and validating its performance on unseen data. With its lightweight design and real-time prediction capability, the project demonstrates how classical machine learning algorithms can effectively be used in computer vision tasks.
